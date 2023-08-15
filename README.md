@@ -15,8 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Devdat's GitHub stats](https://github-readme-stats.vercel.app/api?username=KumarDevdat&show_icons=true&theme=radical)
-
 
 
 
